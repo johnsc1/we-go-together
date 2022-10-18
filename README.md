@@ -33,3 +33,5 @@ code, and the use of DOIs on Github and in the library should be more concretely
 established.
 
 ## Cite We Go Together
+
+A DOI to cite We Go Together will be available with the first release. 
