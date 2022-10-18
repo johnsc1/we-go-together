@@ -1,4 +1,4 @@
-# We Go Toegther: Situtating Github in Library Science
+# We Go Together: Situtating Github in Library Science
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -22,9 +22,9 @@ works to understand how Github qualifies as a library entity, how the circulatio
 information on Github is peer-to-peer and has library qualities, and the development of
 new interdisciplinary terminology to support these connections. This methodology is
 established as a valid approach to Github repositories through an in-depth case study
-on the pandas repository, using the interdisciplinary terms in the discussion to vali-
-date their practical use, including the Github Circulation Network and the Community
-Code Archivist Librarian. Implications for Library Science and Computer Science as
+on the pandas repository, using the interdisciplinary terms in the discussion to validate 
+their practical use, including the Github Circulation Network and the Community
+Code Archivist Librarian. Implications for Library and Information Science and Computer Science as
 disciplines are discussed along with interviews from scholars in Library and Information
 Science. Overall, this research implies that the case study methodology is a valid ap-
 proach to understanding Github repositories, Github should be included as a database
