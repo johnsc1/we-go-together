@@ -10,7 +10,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-## Abstract: 
+## Abstract
 
 Github is an essential platform for Free Open Source Software, as it allows communities
 to collaborate on software projects. Because it is possible to apply humanities concepts
@@ -31,3 +31,5 @@ proach to understanding Github repositories, Github should be included as a data
 in the library catalog, libraries should further support literacy of code and archiving
 code, and the use of DOIs on Github and in the library should be more concretely
 established.
+
+## Cite We Go Together
